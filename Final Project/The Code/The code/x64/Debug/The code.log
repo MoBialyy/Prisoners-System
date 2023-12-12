@@ -1,0 +1,4 @@
+﻿  MoSALAH.cpp
+C:\Users\midob\Desktop\FINAL LAB\MoSALAH\MoSALAH\MoSALAH.cpp(484,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\midob\Desktop\FINAL LAB\MoSALAH\MoSALAH\MoSALAH.cpp(503,30): warning C4305: '=': truncation from 'double' to 'float'
+  MoSALAH.vcxproj -> C:\Users\midob\Desktop\FINAL LAB\MoSALAH\x64\Debug\MoSALAH.exe
